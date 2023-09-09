@@ -21,5 +21,10 @@ namespace GW1
         {
             Beach.Visible = true;
         }
+
+        private void Pokaz2_Click(object sender, EventArgs e)
+        {
+            Cyberpunk.Visible = true;
+        }
     }
 }
